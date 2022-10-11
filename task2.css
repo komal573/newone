@@ -11,14 +11,14 @@
     border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb {
-    background: #8eb344; 
-    border-radius: 5px;
+    background: wheat; 
+    border-radius: 10px;
   }
   
 
 .container{
-    width: 90%;
-    margin-left: 5%;
+    width: 100%;
+    margin-left: 10%;
     display: flex;
     flex-direction: row;
 }
@@ -35,8 +35,8 @@
 }
 
 .c1{
-    background-color:#ffe9bf ;
-    border: 2px #bf753d solid;
+    background-color:pink;
+    border: 5px black;
     color: #05014d;
 }
 
